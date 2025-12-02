@@ -88,3 +88,8 @@ It can be used as part of a portfolio, case study, or professional HR reporting.
  • Automating data refresh using Power Query
  • Adding more KPIs like turnover rate or hiring pipeline
  • Migrating dashboard to Power BI
+
+ <img width="512" height="317" alt="image_2025-12-02_17-52-00" src="https://github.com/user-attachments/assets/121deb8f-af9b-4eda-9dc1-928c6f75427c" />
+<img width="508" height="317" alt="image_2025-12-02_17-52-49" src="https://github.com/user-attachments/assets/1d0c193e-50fe-4dfc-9d0c-c23706ec2e2d" />
+<img width="508" height="316" alt="image_2025-12-02_17-53-23" src="https://github.com/user-attachments/assets/1175e121-4465-42a6-83ee-b7cfb6804e62" />
+
