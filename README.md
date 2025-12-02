@@ -89,7 +89,9 @@ It can be used as part of a portfolio, case study, or professional HR reporting.
  • Adding more KPIs like turnover rate or hiring pipeline
  • Migrating dashboard to Power BI
 
- <img width="512" height="317" alt="image_2025-12-02_17-52-00" src="https://github.com/user-attachments/assets/121deb8f-af9b-4eda-9dc1-928c6f75427c" />
-<img width="508" height="317" alt="image_2025-12-02_17-52-49" src="https://github.com/user-attachments/assets/1d0c193e-50fe-4dfc-9d0c-c23706ec2e2d" />
-<img width="508" height="316" alt="image_2025-12-02_17-53-23" src="https://github.com/user-attachments/assets/1175e121-4465-42a6-83ee-b7cfb6804e62" />
+![Screenshot 2025-12-02 180959](https://github.com/user-attachments/assets/d4bfb5db-f378-42b7-9a49-6de3921a60c1)
+![Screenshot 2025-12-02 181022](https://github.com/user-attachments/assets/95003d5a-6080-4046-9abe-76313864787a)
+![Screenshot 2025-12-02 181101](https://github.com/user-attachments/assets/78e200a2-88e2-48ce-8a2f-dcda630beb1d)
+![Screenshot 2025-12-02 181135](https://github.com/user-attachments/assets/1d1a42af-790b-4a56-a949-fb29c70b1cda)
+
 
